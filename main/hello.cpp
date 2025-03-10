@@ -3,8 +3,6 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World\n";
-  cout << "Hello, Jenkins\n";
-  cout << "I have successfully built and done the CC lab  \n";
+  cout << "I have successfully built and done the CC-8 lab  \n";
   return 0;
 }
